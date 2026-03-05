@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Olá!<br>Sou estudante do 3º semestre de Ciência da Computação e estou começando a explorar mais o GitHub e o mundo do desenvolvimento.<br>Aqui você vai encontrar projetos de estudo, experimentos e códigos que fazem parte do meu aprendizado diário.<br><br>🚀 Estou sempre aprendendo algo novo, errando, melhorando e evoluindo um pouco a cada commit.<br><br>Fique à vontade para explorar!<br><br><br>👋 Hi there!<br>I’m a 3rd semester Computer Science student who is starting to explore GitHub more actively and learn about software development.<br>Here you’ll find study projects, experiments, and code that are part of my daily learning journey.<br><br>🚀 Always learning, making mistakes, improving, and getting better with every commit.<br><br>Feel free to take a look around!</p>
+<p align="left">👋 Olá!<br>Sou estudante do 3º semestre de Ciência da Computação e estou começando a explorar mais o GitHub e o mundo do desenvolvimento.<br>Aqui você vai encontrar projetos de estudo, experimentos e códigos que fazem parte do meu aprendizado diário.<br><br>🚀 Estou sempre aprendendo algo novo, errando, melhorando e evoluindo um pouco a cada commit.<br><br>Fique à vontade para explorar!<br><br><br>👋 Hey!<br>I’m a 3rd semester Computer Science student who is starting to explore GitHub more actively and learn about software development.<br>Here you’ll find study projects, experiments, and code that are part of my daily learning journey.<br><br>🚀 Always learning, making mistakes, improving, and getting better with every commit.<br><br>Feel free to take a look around!</p>
 
 ###
 
